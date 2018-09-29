@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body {
+	background: white;
+	font-family: meiryo, arial;
+	max-width: 60%;
+	margin: 0 auto;
+}
+
+h1 {
+	background: darkgreen;
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	padding-left: 10px;
+	color: Grey;
+}
+
+td {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+}
+
+img {
+	height: 150;
+	padding-left: 30;
+}
+
+.top-logo img {
+	height: 50;
+}
+
+.page-bottom {
+	font-size: 15;
+}
+
+.page-bottom p {
+	color: grey;
+	text-align: right;
+}
