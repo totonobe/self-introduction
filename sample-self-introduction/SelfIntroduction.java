@@ -44,7 +44,7 @@ public class SelfIntroduction extends HttpServlet {
 		out.println("    <img src=\"pictures/companylogo.png\">                                  ");
 		out.println("  </div>                                                                    ");
 		out.println("  <h1>自己紹介ページ</h1>                                                   ");
-		out.println("  <h2>名前：池田 将大</h2>                                                  ");
+		out.println("  <h2>名前：一野辺 融</h2>                                                  ");
 		out.println("  <img src=\"pictures/myPicture.jpg\">                                      ");
 		out.println("  <p>ようこそ！</br>IT基礎研修、いっしょに頑張りましょう。</p>              ");
 		out.println("  <hr>                                                                      ");
